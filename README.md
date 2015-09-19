@@ -3,6 +3,8 @@
 The use of dependencies shown on jQuery example.
 Dependencies are managed by Bower.
 
+Result file is minified and linked with the source map.
+
 ## Build
 
 1. Install node modules: `npm install`
